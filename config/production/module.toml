@@ -1,3 +1,4 @@
+_merge = 'none'
 [imports]
   path = "github.com/brtrdkeller/higo"
 [imports]
