@@ -1,0 +1,39 @@
+
+- author: Jamie Shields
+  id: 1
+  citation: |-
+    "If accessibility isn't considered as part of your inclusion efforts, then that inclusion is merely empty words written in inaccessible ink."
+- author: Brian DeConinck
+  id: 2
+  citation: |-
+    It’s a lot cheaper to fix a problem when it’s spotted on a whiteboard than when it’s spotted in production.
+- author: Anna Cook, M.S.
+  id: 3
+  citation: |-
+    Most product teams think accessibility is so expensive is that they don't address accessibility needs early in their product creation cycle. 
+    As I've noted in many other contexts, the cost of accessibility increases when teams are forced to make bug fixes in designs and code that are already in production. 
+- author: Hidde de Vries
+  id: 4
+  citation: |-
+    A focus on trying to find a “fix” or “solution” for accessibility constitutes a misunderstanding of what accessibility is about.
+- author: Adrian Rosellli
+  id: 5
+  citation: |-
+    Accessibility is about people. (…) When we target output versus outcomes, we are failing our friends, our family, our community, and our future selves. We are excluding fellow humans while we try to absolve ourselves of responsibility. (…)
+- author: Heydon 
+  id: 6
+  citation: |-
+    Not everything needs to be accessible. Some things shouldn’t exist at all (like a useless interface component).
+- author: Heydon
+  id: 7
+  citation: |-
+    Disabled people aren’t just disabled and not all their interests are disability related. 
+- author: Agnès Beaulieu, fondatrice, Insertech
+  id: 8
+  citation: |-
+    L’accélération de la transition numérique met en lumière les inégalités croissantes d’accès aux outils et aux compétences numériques nécessaires à une pleine participation citoyenne. Développer la littératie numérique de toute la population s’avère essentielle pour permettre une compréhension élargie des enjeux environnementaux et sociaux liés au numérique
+- author: Colloque du DIU – Infrastructures Alien
+  url: https://eur-artec.fr/evenements/colloque-du-diu-infrastructures/
+  id: 9
+  citation: |-
+    Les infrastructures nous aliènent en même temps qu’elles nous encapacitent (inégalement). Nos approches individualistes de la démocratie et de la liberté tendent systématiquement à ignorer et à négliger le fait que nous sommes ce que nous sommes en raison de la forme et de l’état des infrastructures qui soutiennent notre vie matérielle et mentale.

@@ -1,0 +1,15 @@
+# Hugo
+public
+/resources/
+_vendor
+go.sum
+.hugo_build.lock
+.frontmatter
+themes
+
+# OS file systems
+.DS_Store
+
+# Editors
+.vscode
+

@@ -1,0 +1,63 @@
+baseURL = ''
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
+enableInlineShortcodes = true
+removePathAccents = true
+title = 'Social Inclusion - Digital Accessibility'
+theme = ['higo','repogo','sligo','fromago','frago']
+
+[Params]
+favicon = true
+
+[outputformats]
+  _merge = 'deep'
+
+[pagination]
+  disableAliases = false
+  pagerSize = 20
+  path = 'page'
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 6
+    ordered = false
+    startLevel = 2
+
+[menus]
+[[menus.main]]
+    identifier = "assessment"
+    name = "Assessment"
+    url = "/assessment/"
+    weight = 1
+[[menus.main]]
+    identifier = "modules"
+    name = "Modules"
+    url = "/modules/"
+    weight = 1
+[[menus.main]]
+    identifier = "publication"
+    name = "Publications"
+    url = "/publication/"
+    weight = 10
+[[menus.main]]
+    identifier = "partnership"
+    name = "Partnership"
+    url = "/partnership/"
+    weight = 100
+[[menus.main]]
+    identifier = "dashboard"
+    name = "Dashboard"
+    url = "/audits/"
+    weight = 1000
+
+[languages]
+  [languages.fr]
+    languageCode = "fr"
+    languageName = "Français"
+    weight = 1
+    title = "Handicap International"
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    weight = 2
+    title = "Humanity & Inclusion"
