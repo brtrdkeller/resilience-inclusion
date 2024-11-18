@@ -12,6 +12,10 @@ favicon = true
 [outputformats]
   _merge = 'deep'
 
+[module]
+  _merge = 'none'
+
+
 [pagination]
   disableAliases = false
   pagerSize = 20
