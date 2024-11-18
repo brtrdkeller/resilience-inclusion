@@ -1,13 +1,10 @@
-
-
-[module]
-  [[module.imports]]
-    path = "github.com/brtrdkeller/higo"
-  [[module.imports]]
-    path = "github.com/lowdit/fromago"
-  [[module.imports]]
-    path = "github.com/lowdit/repogo"
-  [[module.imports]]
-    path = "github.com/lowdit/sligo"
-  [[module.imports]]
-    path = "github.com/lowdit/frago"
+[imports]
+  path = "github.com/brtrdkeller/higo"
+[imports]
+  path = "github.com/lowdit/fromago"
+[imports]
+  path = "github.com/lowdit/repogo"
+[imports]
+  path = "github.com/lowdit/sligo"
+[imports]
+  path = "github.com/lowdit/frago"
