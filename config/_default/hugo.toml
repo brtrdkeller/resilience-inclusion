@@ -4,7 +4,7 @@ defaultContentLanguageInSubdir = false
 enableInlineShortcodes = true
 removePathAccents = true
 title = 'Social Inclusion - Digital Accessibility'
-theme = ['higo','repogo','sligo','fromago','frago']
+
 
 [Params]
 favicon = true
