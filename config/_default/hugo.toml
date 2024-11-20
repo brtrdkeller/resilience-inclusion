@@ -5,6 +5,7 @@ enableInlineShortcodes = true
 removePathAccents = true
 title = 'Social Inclusion - Digital Accessibility'
 
+theme = ["higo","fromago","repogo","sligo"]
 
 [Params]
 favicon = true
